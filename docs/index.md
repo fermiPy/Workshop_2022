@@ -7,6 +7,25 @@ A three day workshop to organize Fermi-LAT collaboration and community
 development and maintenance of public tools to analysis Fermi LAT
 data.  Focusing in particular on the "Fermipy" software package.
 
+### Workshop details
+
+When: January 17, 18, 19 2023.
+
+Where: SLAC National Lab.  Palo Alto, CA
+
+Who: We are planning for up to 30 attendees in person, as well as some
+remote attendees.  In addition to LAT members, it would be good to
+invite and welcome some community participation through the
+Fermi Users Group.
+
+Financials: We are hoping to any registration costs, or to keep them
+minival.
+
+Registration form:
+
+Survey for participants:
+
+
 ### Topics covered
 
 1. Fermipy organization, packaging, testing, distribution
