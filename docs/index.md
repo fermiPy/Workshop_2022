@@ -6,7 +6,7 @@
 
 A three day workshop to organize Fermi-LAT collaboration and community
 development and maintenance of public tools to analysis Fermi LAT
-data.  Focusing in particular on the "Fermipy" software package.
+data, focusing in particular on the "Fermipy" software package.
 
 
 ### Workshop details
@@ -44,5 +44,5 @@ Survey for participants:  [link](https://docs.google.com/forms/d/e/1FAIpQLScfvJs
 <img src="nasa-logo-web-rgb.png" alt="NASA Logo" width="100"/>
 
 
-<!--  LocalWords:  Fermipy
+<!--  LocalWords:  Fermipy kipac_logo_HR.png nasa-logo-web-rgb.png
  -->
