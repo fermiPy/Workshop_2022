@@ -1,5 +1,7 @@
 # Fermipy and Fermitools Workshop,  2023
 
+<img src="fermi_logo.png" alt="Fermi Logo" width="500"/>
+
 ### Workshop description
 
 A three day workshop to organize Fermi-LAT collaboration and community
@@ -26,8 +28,6 @@ Registration form:  [link](https://docs.google.com/forms/d/e/1FAIpQLSffouT1L-Ems
 Survey for participants:  [link](https://docs.google.com/forms/d/e/1FAIpQLScfvJsWqW4NyNag6bSv90-LF3CxhgeRkPRZubsvTjc1eZNQ_A/viewform?usp=sharing)
 
 
-
-
 ### Topics covered
 
 1. Fermipy organization, packaging, testing, distribution
@@ -37,6 +37,11 @@ Survey for participants:  [link](https://docs.google.com/forms/d/e/1FAIpQLScfvJs
 5. Cross-mission data analysis, 3ML.
 
 
+##### With support from
+
+<img src="SLAC-lab-hires.png" alt="SLAC Logo" width="500"/>
+<img src="kipac_logo_HR.png" alt="KIPAC Logo" width="500"/>
+<img src="nasa-logo-web-rgb.png" alt="NASA Logo" width="500"/>
 
 
 <!--  LocalWords:  Fermipy
