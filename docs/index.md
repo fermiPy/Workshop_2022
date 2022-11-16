@@ -31,7 +31,7 @@ Survey for participants:  [link](https://docs.google.com/forms/d/e/1FAIpQLScfvJs
 
 We have reserved a block of 20 rooms at the Stanford Guest House, located at SLAC. You can use the code "FERMI" to book or use the this [link](https://stanfordguesthouse.p3hotels.com/rates-room1?hotel=51737&arrival=2023-01-16&departure=2023-01-20&rooms=1&adults%5B1%5D=1&children%5B1%5D=0&adults%5B2%5D=1&children%5B2%5D=0&codeType=block&code=FERMI)
 
-# The hold will expore on 11/26! 
+##### The hold will expire on 11/26! 
 
 ### Topics covered
 
