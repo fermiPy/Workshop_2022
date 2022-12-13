@@ -41,6 +41,7 @@ We have reserved a block of 20 rooms at the Stanford Guest House, located at SLA
 4. Underused aspects of Fermipy
 5. Cross-mission data analysis, 3ML.
 
+### [Agenda is here](./agenda.md)
 
 ##### With support from
 
