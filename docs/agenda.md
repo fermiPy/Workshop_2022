@@ -1,5 +1,6 @@
 # Fermipy workshop agenda
 
+Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2WjJLWDJhOGVFK3RWbzRWSkRpdz09)
 
 
 ### Tuesday, Jan. 17
