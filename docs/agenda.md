@@ -10,7 +10,7 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 | 8:00-9:00     | Fermipy organization, packaging and distribution |  Eric C |
 | 9:00-9:30     | Fermipy, Fermitools and FSSC | Alex R. |
 | 9:30-10:00    | **Coffee** |    | 
-| 10:30-11:00    | Outstanding fermipy feature requests | Henrike F. | 
+| 10:30-11:00    | [Outstanding fermipy feature requests](slides/fermipy_issues_20230117.pdf) | Henrike F. | 
 | 11:00-11:30    | Morphological analysis |  Shoela A. (zoom) | 
 | 11:30-12:00    | Fermi Users Group feature requests |  Marcus S. (zoom?) | 
 | 12:00-12:30    | open discussion |  all | 
