@@ -19,6 +19,8 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 
 [intro to git for fermi summer school by Henrike](https://confluence.slac.stanford.edu/display/LSP/Fermi+Summer+School+2022?preview=/341267041/348361532/git-intro.pdf)
 
+[Recording of the first day](https://stanford.zoom.us/rec/share/-ngROg7o1hdwIaFxGhQEv9ynoqMkG811whH4rtY-okkf5AZgyfKrd2I-HyVW3yvd.vVo9gOcuvQiXPGJa)
+
 ### Wednesday, Jan. 18
 
 | When        | What           |    Who |
