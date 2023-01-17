@@ -19,7 +19,7 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 
 [intro to git for fermi summer school by Henrike](https://confluence.slac.stanford.edu/display/LSP/Fermi+Summer+School+2022?preview=/341267041/348361532/git-intro.pdf)
 
-[Recording of the first day](https://stanford.zoom.us/rec/share/-ngROg7o1hdwIaFxGhQEv9ynoqMkG811whH4rtY-okkf5AZgyfKrd2I-HyVW3yvd.vVo9gOcuvQiXPGJa)
+[Zoom Recording of the first day](https://stanford.zoom.us/rec/share/-ngROg7o1hdwIaFxGhQEv9ynoqMkG811whH4rtY-okkf5AZgyfKrd2I-HyVW3yvd.vVo9gOcuvQiXPGJa)
 
 ### Wednesday, Jan. 18
 
@@ -28,10 +28,10 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 | 8:00-9:00     | Fermipy plug in in threeML |  Henrike F. |
 | 9:00-9:30     | Fermipy and gammapy | Sajan (zoom) |
 | 9:30-10:00    | **Coffee** |    | 
-| 10:30-11:00    | Tutorials for documentation (1) | Giacomo P. (zoom)| 
-| 11:00-11:30    | Tutorials for documentation (1) |  Leonardo D.V. (zoom) | 
-| 11:30-12:00    | How to get the larger community involved |  all | 
-| 12:00-12:30    | open discussion |  all | 
+| 10:00-10:30    | Tutorials for documentation (1) | Giacomo P. (zoom)| 
+| 10:30 -11:00    | Tutorials for documentation (1) |  Leonardo D.V. (zoom) | 
+| 11:00-11:30    | How to get the larger community involved |  all | 
+| 11:30-12:30    | open discussion |  all | 
 | 12:30-1:30    | **Lunch** |   | 
 | 1:30-4:30    | *Working session (2) Open discussion/hands on* | all |
 
@@ -42,9 +42,9 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 | 8:00-9:00     | Documentation (how 2 sphinx/readthedocs) |  Niccolo’ D.L. |
 | 9:00-9:30     | Github actions, issue tracker, etc.|  Niccolo’ D.L. |
 | 9:30-10:00    | **Coffee** |    | 
-| 10:30-11:00    | CI of fermipy vs dev version of fermitools | all | 
-| 11:00-11:30    | Outstanding fermipy feature requests  |  all | 
-| 11:30-12:00    | Action items (with wish list) with commitment |  all | 
-| 12:00-12:30    | open discussion |  all | 
+| 10:00-10:30    | CI of fermipy vs dev version of fermitools | all | 
+| 10:30-11:00    | Outstanding fermipy feature requests  |  all | 
+| 11:00-11:30    | Action items (with wish list) with commitment |  all | 
+| 11:30-12:30    | open discussion |  all | 
 | 12:30-1:30    | **Lunch** |   | 
 | 1:30-4:30    | *Working session (3) Open discussion/hands on* | all |
