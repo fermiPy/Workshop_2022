@@ -35,6 +35,8 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 | 12:30-1:30    | **Lunch** |   | 
 | 1:30-4:30    | *Working session (2) Open discussion/hands on* | all |
 
+[Zoom recording second day](https://stanford.zoom.us/rec/share/vvBYDG7ahIeeCKj9q_PiWzToSRgOK27aEK0RQvqZv-iucwKfZK0IfLHuyc1M2F9u.izk6A23d7dangXqR)
+
 ### Thursday, Jan. 19
 
 | When        | What           |    Who |
