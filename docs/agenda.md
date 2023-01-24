@@ -26,7 +26,7 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 | When        | What           |    Who |
 | ------------- |:-------------:|:-------------:|  
 | 8:00-9:00     | Fermipy plug in in threeML |  Henrike F. |
-| 9:00-9:30     | Fermipy and gammapy | Sajan (zoom) |
+| 9:00-9:30     | [Fermipy and gammapy](slides/Fermipy-workshop2023-SLAC.pdf)  | Sajan (zoom) |
 | 9:30-10:00    | **Coffee** |    | 
 | 10:00-10:30    | [Tutorials for documentation (1)](slides/Fermipy_workshop_tutorial_documentation.pdf) | Giacomo P. (zoom)|
 | 10:30 -11:00    | Tutorials for documentation (1) (same epresentation as above) |  Leonardo D.V. (zoom) | 
