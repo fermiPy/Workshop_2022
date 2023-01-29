@@ -41,7 +41,8 @@ Zoom coordinates: [join meeting](https://stanford.zoom.us/j/96095089323?pwd=ZzQ2
 
 | When        | What           |    Who |
 | ------------- |:-------------:|:-------------:|  
-| 8:00-9:00     | Documentation (how 2 sphinx/readthedocs) |  Niccolo’ D.L. |
+| 8:00-8:30     | Documentation (how 2 sphinx/readthedocs) |  Niccolo’ D.L. |
+| 8:30-9:00     | [Fermi-LAT lightcurves](slides/lightcurves.pdf) | Janeth V. |
 | 9:00-9:30     | Github actions, issue tracker, etc.|  Niccolo’ D.L. |
 | 9:30-10:00    | **Coffee** |    | 
 | 10:00-10:30    | CI of fermipy vs dev version of fermitools | all | 
